@@ -7,6 +7,6 @@ scraping 100 problems from this document.
 # install required libraries
 pip install pandas beautifulsoup4
 
-# scraping and output csv
+# scraping and output tsv
 python main.py
 ```
